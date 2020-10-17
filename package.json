@@ -1,0 +1,11 @@
+{
+  "name": "@mullerstd/prettier-config",
+  "version": "1.0.0",
+  "description": "muller prettier shared config",
+  "author": "Nick <nikolaymuller@gmail.com>",
+  "main": "index.json",
+  "license": "MIT",
+  "files": [
+    "index.json"
+  ]
+}
