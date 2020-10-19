@@ -1,6 +1,6 @@
 {
   "name": "@mullerstd/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "prettier config by mullerstd",
   "author": "Nick <nikolaymuller@gmail.com>",
   "main": "index.json",
