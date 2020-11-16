@@ -2,11 +2,11 @@ Prettier config by mullerstd
 
 ## Install
 ```bash
-yarn add @mullerstd/prettier-config
+yarn add -D @mullerstd/prettier-config
 
 // or using npm
 
-npm i @mullerstd/prettier-config
+npm i @mullerstd/prettier-config --save-dev
 ```
 
 ## Usage
